@@ -6,6 +6,7 @@ TODO
 - Connection logic
 - Deck handling
 - Machine interaction
+- AI Dealer??
 
 *Client Side*
 - Interfacing
