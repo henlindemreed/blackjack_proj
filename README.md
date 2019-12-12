@@ -10,3 +10,8 @@ TODO
 
 *Client Side*
 - Interfacing
+
+FILES HERE
+-----
+*Sockets*
+This is just the stuff Jim posted on his page
