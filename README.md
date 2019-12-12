@@ -15,9 +15,11 @@ TODO
 FILES HERE
 -----
 *Sockets*
+
 This is just the stuff Jim posted on his page
 
 *Src*
+
 Here is where the source code will go. I have created 4 C++ files:
 
 - server_sockets.cc   : will handle all of the gritty socket stuff
